@@ -1,7 +1,3 @@
-Merhaba 🖐
-
-Ufaktan Başlıyalım!
-
 Kurulum!
 
 1. Öncelikle Bilgisayarınıza Node.js indirmelisiniz.
